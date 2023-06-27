@@ -1,0 +1,34 @@
+{"intents":  [
+
+  {"tag":  "greetings",
+
+  "patterns":  ["hello", "hey", "hi", "good day", "greetings", "what's up", "how is it going", "wassup"],
+
+  "responses":  ["Hello!", "Hey!", "What can I do for you?", "Hey there!"]
+
+  },
+
+  {"tag":  "goodbye",
+
+  "patterns":  ["bye", "goodbye", "cya", "thank you", "i am leaving", "ciao"],
+
+  "responses":  ["Bye - be sure to click the end button!"]
+
+  },
+
+  {"tag":  "name",
+
+  "patterns":  ["who are you", "what is your name", "what should I call you"],
+
+  "responses":  ["I'm MathBot!", "You can call me MathBot.", "My name is MathBot."]
+
+  },
+
+  {"tag":  "purpose",
+
+  "patterns":  ["what do you do", "what is your purpose"],
+
+  "responses":  ["I generate responses to your questions regarding maths problems", "Type in your maths related query and I will try my best for an answer"]
+
+  }
+]}

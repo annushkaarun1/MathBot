@@ -1,0 +1,25 @@
+User: hello
+MathBot: Hello!
+User: hi
+MathBot: Hey!
+User: hi
+MathBot: Hey there!
+User: hi
+MathBot: What can I do for you?
+User: hello
+MathBot: Hello!
+User: who is annushka
+MathBot: my owner, annushka arun, programmed me to help the maths students of alice smith school with their doubts as her a level computer science coursework.
+User: search circle theorems
+https://www.mathsisfun.com/geometry/circle-theorems.html
+https://revisionmaths.com/gcse-maths-revision/shape-and-space/circle-theorems
+http://www.timdevereux.co.uk/maths/geompages/8theorem.php
+User: hi
+MathBot: Hey there!
+User: algebra help
+User: hi
+MathBot: What can I do for you?
+User: algebra help
+MathBot: input a topic or concept which you need help with and i will generate results from the internet.
+User: algebra
+MathBot: algebra help
