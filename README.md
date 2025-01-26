@@ -8,3 +8,16 @@ Welcome to MathBot🤖! MathBot is an AI-powered chatbot designed for our school
 ## Languages, Libraries and Tools Used
 
 Python, Tkinter, Sklearn, NLTK
+
+
+## Features
+
+Solves math problems and provides explanations
+
+Step-by-step solutions for a better understanding
+
+Supports algebra, calculus, geometry, and more
+
+Interactive and easy-to-use interface
+
+Email function to generate an query email for your teacher
